@@ -114,7 +114,7 @@ The system integrates Arduino UNO, ultrasonic sensors, servo motors, and LEDs/LC
 - Servo motor can operate a barrier or indicator based on slot occupancy  
 
 <div align="center">
-  <img src="parking_demo.jpg" width="300" />
+  <img src="parking_demo.jpg" width="500" />
   <p><b>Digital Parking System in Action</b></p>
 </div>
 
